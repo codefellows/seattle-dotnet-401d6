@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amand\\source\\repos\\401d6LinkedList\\401d6LinkedList\\401d6LinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class05-OOP_Principles\\LinkedLists\\401d6LinkedList\\401d6LinkedList\\401d6LinkedList.csproj",
       "projectName": "401d6LinkedList",
-      "projectPath": "C:\\Users\\amand\\source\\repos\\401d6LinkedList\\401d6LinkedList\\401d6LinkedList.csproj",
+      "projectPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class05-OOP_Principles\\LinkedLists\\401d6LinkedList\\401d6LinkedList\\401d6LinkedList.csproj",
       "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amand\\source\\repos\\401d6LinkedList\\401d6LinkedList\\obj\\",
+      "outputPath": "C:\\Users\\amand\\Source\\Repos\\seattle-dotnet-401d6\\Class05-OOP_Principles\\LinkedLists\\401d6LinkedList\\401d6LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

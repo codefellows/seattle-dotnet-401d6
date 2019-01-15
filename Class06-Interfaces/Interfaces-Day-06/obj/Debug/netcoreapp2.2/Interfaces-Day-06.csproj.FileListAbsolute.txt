@@ -1,0 +1,11 @@
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\bin\Debug\netcoreapp2.2\Interfaces-Day-06.deps.json
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\bin\Debug\netcoreapp2.2\Interfaces-Day-06.runtimeconfig.json
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\bin\Debug\netcoreapp2.2\Interfaces-Day-06.runtimeconfig.dev.json
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\bin\Debug\netcoreapp2.2\Interfaces-Day-06.dll
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\bin\Debug\netcoreapp2.2\Interfaces-Day-06.pdb
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.csprojAssemblyReference.cache
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.csproj.CoreCompileInputs.cache
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.AssemblyInfoInputs.cache
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.AssemblyInfo.cs
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.dll
+C:\Users\vinicio\source\repos\codefellows\seattle-dotnet-401d6\Class06-Interfaces\Interfaces-Day-06\obj\Debug\netcoreapp2.2\Interfaces-Day-06.pdb

@@ -9,3 +9,14 @@ C:\Users\amand\source\repos\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp
 C:\Users\amand\source\repos\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.AssemblyInfo.cs
 C:\Users\amand\source\repos\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.dll
 C:\Users\amand\source\repos\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.pdb
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\bin\Debug\netcoreapp2.1\401d6LinkedList.deps.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\bin\Debug\netcoreapp2.1\401d6LinkedList.runtimeconfig.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\bin\Debug\netcoreapp2.1\401d6LinkedList.runtimeconfig.dev.json
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\bin\Debug\netcoreapp2.1\401d6LinkedList.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\bin\Debug\netcoreapp2.1\401d6LinkedList.pdb
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.csprojAssemblyReference.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.AssemblyInfoInputs.cache
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.AssemblyInfo.cs
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.dll
+C:\Users\amand\Source\Repos\seattle-dotnet-401d6\Class05-OOP_Principles\LinkedLists\401d6LinkedList\401d6LinkedList\obj\Debug\netcoreapp2.1\401d6LinkedList.pdb

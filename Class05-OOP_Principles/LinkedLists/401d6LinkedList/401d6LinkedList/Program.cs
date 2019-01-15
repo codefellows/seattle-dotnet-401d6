@@ -20,8 +20,20 @@ namespace _401d6LinkedList
             list.Insert(8);
             list.Insert(15);
 
-            Console.WriteLine($"Does 8 Exist?: {list.Includes(8)}");
-            Console.WriteLine($"Does 18 Exist?: {list.Includes(18)}");
+            list.Print();
+
+            list.Append(16);
+            list.Append(23);
+            list.Append(42);
+
+            list.Print();
+
+            list.InsertBefore(23, 53);
+
+            list.Print();
+
+            //Console.WriteLine($"Does 8 Exist?: {list.Includes(8)}");
+            //Console.WriteLine($"Does 18 Exist?: {list.Includes(18)}");
 
 
         }

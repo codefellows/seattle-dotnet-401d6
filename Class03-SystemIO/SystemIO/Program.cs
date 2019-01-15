@@ -9,11 +9,11 @@ namespace SystemIO
         {
             // Vinicio - we are relying on the intenal structure of the project
             string path = "../../../testFile.txt";
-            //CreateFile(path);
+            CreateFile(path);
             //ReadFile(path);
             //AppendToFile(path);
             //DeleteFile(path);
-            PlayingWithSplit();
+            //PlayingWithSplit();
         }
 
         static void CreateFile(string path)
@@ -30,7 +30,7 @@ namespace SystemIO
                     //Console.WriteLine("Gregor is the very best");
                     try
                     {
-                        streamWriter.WriteLine("Gregor is the very best -- NEW FILE");
+                        streamWriter.WriteLine("INheritance is about what things are -- NEW FILE");
                     }
                     catch (Exception)
                     {
